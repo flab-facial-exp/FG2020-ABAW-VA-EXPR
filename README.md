@@ -88,11 +88,11 @@ The paper link: [Multi-term \& Multi-task Affect Analysis in the Wild](arxiv)
    - 10: predict test dataset
 
 ## Framework
-- Overview:
+Overview:
 <img src="over_view.png" width=50%>
-- Preprocessing:
+Preprocessing:
 <img src="pre_processing.png" width=50%>
-- Multi-term \& Multi-task Model:
+Multi-term \& Multi-task Model:
 <img src="multi_task_model.png" width=50%>
 
 ## Citation
