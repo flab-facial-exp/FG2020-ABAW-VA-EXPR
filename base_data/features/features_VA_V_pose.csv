@@ -1,0 +1,13 @@
+﻿01s,06s,12s,03s
+ pose_Ty-avg, pose_Ty-avg, pose_Tx-avg, pose_Tx-avg
+ pose_Tx-avg, pose_Tx-avg, pose_Ty-avg, pose_Tz-avg
+ pose_Ry-avg, pose_Tz-avg, pose_Tz-avg, pose_Ry-avg
+ pose_Tz-avg, pose_Ry-avg, pose_Ry-avg, pose_Rz-avg
+ pose_Rz-avg, pose_Rz-avg, pose_Rz-avg, pose_Ty-avg
+ pose_Ty-range, pose_Ty-range, pose_Rx-avg, pose_Rx-avg
+ pose_Rx-avg, pose_Rx-avg, pose_Tz-std, pose_Ty-std
+ pose_Rz-std, pose_Tz-range, pose_Ty-range, pose_Ty-range
+ pose_Tx-std, pose_Rx-range, pose_Tz-range, pose_Tz-range
+ pose_Ty-std, pose_Ry-range, pose_Rx-range, pose_Rx-range
+ pose_Tz-std, pose_Tx-std, pose_Tx-std, pose_Rz-range
+ pose_Rx-std, pose_Ty-std, pose_Ty-std, pose_Tx-std

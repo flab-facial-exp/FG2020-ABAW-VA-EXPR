@@ -1,0 +1,17 @@
+﻿01s,06s,12s,03s
+ gaze_0_x-avg, gaze_1_y-avg, gaze_angle_y-avg, gaze_0_x-avg
+ gaze_1_x-range, gaze_0_z-range, gaze_1_x-avg, gaze_0_y-avg
+ gaze_angle_x-avg, gaze_0_x-avg, gaze_1_x-range, gaze_1_x-avg
+ gaze_1_x-avg, gaze_0_y-avg, gaze_0_x-avg, gaze_1_z-avg
+ gaze_1_y-avg, gaze_0_z-avg, gaze_1_z-avg, gaze_1_z-range
+ gaze_1_z-avg, gaze_1_x-avg, gaze_0_y-range, gaze_0_z-avg
+ gaze_angle_y-avg, gaze_1_y-range, gaze_0_z-avg, gaze_1_y-avg
+ gaze_0_y-avg, gaze_0_y-range, gaze_0_z-range, gaze_0_y-range
+ gaze_1_y-std, gaze_1_z-avg, gaze_0_y-avg, gaze_0_z-range
+ gaze_0_z-range, gaze_0_x-std, gaze_1_z-range, gaze_angle_x-avg
+ gaze_0_z-avg, gaze_angle_y-range, gaze_1_y-avg, gaze_1_z-std
+ gaze_1_x-std, gaze_0_z-std, gaze_angle_x-avg, gaze_1_x-range
+ gaze_0_x-std, gaze_angle_x-std, gaze_angle_y-std, gaze_1_y-range
+ gaze_0_y-std, gaze_angle_y-std, gaze_0_x-range, gaze_0_x-std
+ gaze_angle_x-std, gaze_angle_x-avg, gaze_angle_x-range, gaze_0_z-std
+ gaze_angle_y-std, gaze_0_y-std, gaze_1_y-std, gaze_angle_y-range
