@@ -102,7 +102,7 @@ The paper link: [Multi-term \& Multi-task Affect Analysis in the Wild](arxiv)
     title={Multi-term and Multi-task Affect Analysis in the Wild },
     author={Sachihiro Youoku and Yuushi Toyoda and Ryosuke Kawamura and Junya Saito and Takahisa Yamamoto and Xiaoyu Mi and Kentaro Murase},
     year={2020},
-    eprint={2020.3367616},
+    eprint={2009.13885},
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
