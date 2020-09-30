@@ -10,7 +10,7 @@ Team Members: Sachihiro Youoku,  Junya Saito, Yuushi Toyoda, Ryosuke Kawamura, T
 
 Affiliation: Trusted AI Project, Artificial Intelligence Laboratory, Fujitsu Laboratories Ltd., Japan
 
-The paper link: [Multi-term \& Multi-task Affect Analysis in the Wild](arxiv)
+The paper link: [Multi-term \& Multi-task Affect Analysis in the Wild](https://arxiv.org/pdf/2009.13885.pdf)
 
 ## Update:
 
