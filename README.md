@@ -14,7 +14,7 @@ The paper link: [Multi-term \& Multi-task Affect Analysis in the Wild](https://a
 
 ## Update:
 
-- 2020.10.XX: release
+- 2020.10.04: release
 
 ## How to run
 
